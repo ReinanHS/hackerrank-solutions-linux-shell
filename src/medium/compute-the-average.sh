@@ -1,3 +1,4 @@
+# Dados N números inteiros, calcule sua média, arredondada para três casas decimais.
 read N
 
 nsum=0
